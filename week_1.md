@@ -1,4 +1,6 @@
 ## Week 1
+* BOARD: [https://zoom-x.de/wb/doc/e0_IXOFrS7S3y4Q-Td-APA](https://zoom-x.de/wb/doc/e0_IXOFrS7S3y4Q-Td-APA)
+
 
 ### SotA Links + Materials
 * [arxiv.org Preprints](https://arxiv.org/)
