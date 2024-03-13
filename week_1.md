@@ -32,3 +32,6 @@
 #### SOTA Transformer
 * [Swin v2](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Swin_Transformer_V2_Scaling_Up_Capacity_and_Resolution_CVPR_2022_paper.pdf)
    * [code](https://github.com/microsoft/Swin-Transformer) 
+
+#### Leader Board
+* [OmniVec](https://openaccess.thecvf.com/content/WACV2024/papers/Srivastava_OmniVec_Learning_Robust_Representations_With_Cross_Modal_Sharing_WACV_2024_paper.pdf)
