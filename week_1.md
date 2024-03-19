@@ -47,3 +47,9 @@
    * [code](https://github.com/UCSC-VLAA/CLIPA)
 * [Dino V2](https://arxiv.org/pdf/2304.07193.pdf)
    * [code](https://github.com/facebookresearch/dinov2)  
+
+### SOTA FM Classification
+* [Battle of the Backbones](https://openreview.net/pdf?id=1yOnfDpkVe)
+   * [code](https://github.com/hsouri/Battle-of-the-Backbones)
+* [ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy](https://arxiv.org/pdf/2311.09215.pdf)
+   * [code](https://github.com/kirill-vish/Beyond-INet) 
