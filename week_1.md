@@ -37,3 +37,13 @@
 
 #### Leader Board
 * [OmniVec](https://openaccess.thecvf.com/content/WACV2024/papers/Srivastava_OmniVec_Learning_Robust_Representations_With_Cross_Modal_Sharing_WACV_2024_paper.pdf)
+
+## Week 2
+
+### Backbones
+* [ConvNext v2](https://openaccess.thecvf.com/content/CVPR2023/papers/Woo_ConvNeXt_V2_Co-Designing_and_Scaling_ConvNets_With_Masked_Autoencoders_CVPR_2023_paper.pdf)
+   * [code](https://github.com/facebookresearch/ConvNeXt-V2) 
+* [Clipp V2](https://arxiv.org/pdf/2306.15658.pdf)
+   * [code](https://github.com/UCSC-VLAA/CLIPA)
+* [Dino V2](https://arxiv.org/pdf/2304.07193.pdf)
+   * [code](https://github.com/facebookresearch/dinov2)  
