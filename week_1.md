@@ -71,8 +71,9 @@
    * [code](https://github.com/ultralytics/ultralytics)
 * [Yolo V1 to V8 overview](https://arxiv.org/pdf/2304.00501.pdf)
 
-### SOTA - 
-* [DETRs with Collaborative Hybrid Assignments Training](https://openaccess.thecvf.com/content/ICCV2023/papers/Zong_DETRs_with_Collaborative_Hybrid_Assignments_Training_ICCV_2023_paper.pdf)
+### SOTA 
+* [Benchmark: MSCoco](https://paperswithcode.com/sota/object-detection-on-coco-minival)
+* [SOTA paper: DETRs with Collaborative Hybrid Assignments Training](https://openaccess.thecvf.com/content/ICCV2023/papers/Zong_DETRs_with_Collaborative_Hybrid_Assignments_Training_ICCV_2023_paper.pdf)
    * [code](https://github.com/Sense-X/Co-DETR)
    * [background: DETR paper](https://arxiv.org/pdf/2005.12872.pdf)
    * [background: Faster-R-CNN paper](https://arxiv.org/pdf/1506.01497.pdf)
