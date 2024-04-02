@@ -56,3 +56,23 @@
    * [code](https://github.com/hsouri/Battle-of-the-Backbones)
 * [ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy](https://arxiv.org/pdf/2311.09215.pdf)
    * [code](https://github.com/kirill-vish/Beyond-INet) 
+
+## Week 3
+
+### Classic Methods
+* [Hough Forests](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=99582ce8439dce17d9d6f74eb54fc5c89dbe06d9)
+* [Deformable Part Models](https://cs.brown.edu/people/pfelzens/papers/lsvm-pami.pdf)
+
+### Yolo 
+* [Yolo V1](https://openaccess.thecvf.com/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
+   * [original DarkNet code](https://github.com/pjreddie/darknet)
+   * [Pytorch code (not official)](https://github.com/tanjeffreyz/yolo-v1)    
+* Yolo V8 has no paper! -> just a GitHub page 
+   * [code](https://github.com/ultralytics/ultralytics)
+* [Yolo V1 to V8 overview](https://arxiv.org/pdf/2304.00501.pdf)
+
+### SOTA - 
+* [DETRs with Collaborative Hybrid Assignments Training](https://openaccess.thecvf.com/content/ICCV2023/papers/Zong_DETRs_with_Collaborative_Hybrid_Assignments_Training_ICCV_2023_paper.pdf)
+   * [code](https://github.com/Sense-X/Co-DETR)
+   * [background: DETR paper](https://arxiv.org/pdf/2005.12872.pdf)
+   * [background: Faster-R-CNN paper](https://arxiv.org/pdf/1506.01497.pdf)
