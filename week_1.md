@@ -45,8 +45,10 @@
    * [code](https://github.com/facebookresearch/ConvNeXt-V2) 
 * [Clipp V2](https://arxiv.org/pdf/2306.15658.pdf)
    * [code](https://github.com/UCSC-VLAA/CLIPA)
+   * [CLIP v1 paper](https://arxiv.org/pdf/2103.00020.pdf)
 * [Dino V2](https://arxiv.org/pdf/2304.07193.pdf)
-   * [code](https://github.com/facebookresearch/dinov2)  
+   * [code](https://github.com/facebookresearch/dinov2)
+   * [DINO V1 paper](https://arxiv.org/pdf/2104.14294.pdf)
 
 ### Self-Supervised 
 * [Masked AutoEncoder](https://arxiv.org/pdf/2111.06377.pdf)
