@@ -1,4 +1,5 @@
-## Week 1
+<details>
+<summary> <H2> Week 1 </H2></summary>
 * BOARD: [https://zoom-x.de/wb/doc/e0_IXOFrS7S3y4Q-Td-APA](https://zoom-x.de/wb/doc/e0_IXOFrS7S3y4Q-Td-APA)
 
 
@@ -38,7 +39,9 @@
 #### Leader Board
 * [OmniVec](https://openaccess.thecvf.com/content/WACV2024/papers/Srivastava_OmniVec_Learning_Robust_Representations_With_Cross_Modal_Sharing_WACV_2024_paper.pdf)
 
-## Week 2
+</details>
+<details>
+<summary> <H2> Week 2 </H2></summary>
 
 ### Backbones
 * [ConvNext v2](https://openaccess.thecvf.com/content/CVPR2023/papers/Woo_ConvNeXt_V2_Co-Designing_and_Scaling_ConvNets_With_Masked_Autoencoders_CVPR_2023_paper.pdf)
@@ -59,7 +62,9 @@
 * [ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy](https://arxiv.org/pdf/2311.09215.pdf)
    * [code](https://github.com/kirill-vish/Beyond-INet) 
 
-## Week 3
+</details>
+<details>
+<summary> <H2> Week 3 </H2></summary>
 
 ### Classic Methods
 * [Hough Forests](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=99582ce8439dce17d9d6f74eb54fc5c89dbe06d9)
@@ -79,3 +84,27 @@
    * [code](https://github.com/Sense-X/Co-DETR)
    * [background: DETR paper](https://arxiv.org/pdf/2005.12872.pdf)
    * [background: Faster-R-CNN paper](https://arxiv.org/pdf/1506.01497.pdf)
+ 
+</details>
+
+<summary> <H2> Week 4 </H2></summary>
+
+### Benchmarks
+* [MS-COCO](https://paperswithcode.com/sota/instance-segmentation-on-coco)
+     * [website](https://cocodataset.org/#home)
+* [CityScapes](https://paperswithcode.com/sota/semantic-segmentation-on-cityscapes)
+     * [website](https://www.cityscapes-dataset.com/dataset-overview/)
+
+### Baseline Model
+* [U-Net](https://arxiv.org/pdf/1505.04597v1.pdf)
+     * [PyTorch Code](https://github.com/milesial/Pytorch-UNet)
+     * [Annotated Code](https://nn.labml.ai/unet/index.html)
+
+### SOTA
+* [#1 MS-COCO: EVA: Exploring the Limits of Masked Visual Representation Learning at Scale](https://openaccess.thecvf.com/content/CVPR2023/papers/Fang_EVA_Exploring_the_Limits_of_Masked_Visual_Representation_Learning_at_CVPR_2023_paper.pdf)
+     * [code](https://github.com/baaivision/EVA/tree/master/EVA-01)
+* [#3 ScityScapes: InternImage: Exploring Large-Scale Vision Foundation Models with
+Deformable Convolutions](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_InternImage_Exploring_Large-Scale_Vision_Foundation_Models_With_Deformable_Convolutions_CVPR_2023_paper.pdf)
+     * [code](https://github.com/OpenGVLab/InternImage)
+
+
