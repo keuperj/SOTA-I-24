@@ -2,7 +2,10 @@
 Materials for the ML SOTA course at HSO in SS24
 
 <details>
-<summary> <H2> Week 1 </H2></summary>
+<summary> <H2> Week 1 </H2><BR>
+Image Classification
+</summary>
+
 * BOARD: [https://zoom-x.de/wb/doc/e0_IXOFrS7S3y4Q-Td-APA](https://zoom-x.de/wb/doc/e0_IXOFrS7S3y4Q-Td-APA)
 
 
@@ -44,7 +47,9 @@ Materials for the ML SOTA course at HSO in SS24
 
 </details>
 <details>
-<summary> <H2> Week 2 </H2></summary>
+<summary> <H2> Week 2 </H2><BR>
+Image Classification with Foundation Models
+</summary>
 
 ### Backbones
 * [ConvNext v2](https://openaccess.thecvf.com/content/CVPR2023/papers/Woo_ConvNeXt_V2_Co-Designing_and_Scaling_ConvNets_With_Masked_Autoencoders_CVPR_2023_paper.pdf)
@@ -67,7 +72,9 @@ Materials for the ML SOTA course at HSO in SS24
 
 </details>
 <details>
-<summary> <H2> Week 3 </H2></summary>
+<summary> <H2> Week 3 </H2><BR>
+Object Detection
+</summary>
 
 ### Classic Methods
 * [Hough Forests](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=99582ce8439dce17d9d6f74eb54fc5c89dbe06d9)
@@ -90,7 +97,9 @@ Materials for the ML SOTA course at HSO in SS24
  
 </details>
 
-<summary> <H2> Week 4 </H2></summary>
+<summary> <H2> Week 4 </H2><BR>
+Segmentation I
+</summary>
 
 ### Benchmarks
 * [MS-COCO](https://paperswithcode.com/sota/instance-segmentation-on-coco)
