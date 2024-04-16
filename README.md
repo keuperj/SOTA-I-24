@@ -128,12 +128,12 @@ Segmentation II
 
 ### SOTA
 * [Segment Anything (SAM)](https://arxiv.org/pdf/2304.02643.pdf)
-      * [code](https://github.com/facebookresearch/segment-anything)
-      * [Demo](https://segment-anything.com/demo)
-      * [Colab Tutorial](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-segment-anything-with-sam.ipynb)    
+     * [code](https://github.com/facebookresearch/segment-anything)
+     * [Demo](https://segment-anything.com/demo)
+     * [Colab Tutorial](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-segment-anything-with-sam.ipynb)    
 * [Segment Everything Everywhere All at Once (SEEM)](https://openreview.net/pdf?id=UHBrWeFWlL)
-      * [code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
+     * [code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
 * [Segment Like Me (Slime)](https://arxiv.org/pdf/2309.03179.pdf)
-      * [code](https://github.com/aliasgharkhani/SLiMe)
-      * [Colab Demo](https://colab.research.google.com/drive/1fpKx6b2hQGEx1GK269vOw_sKeV9Rpnuj?usp=sharing)
+     * [code](https://github.com/aliasgharkhani/SLiMe)
+     * [Colab Demo](https://colab.research.google.com/drive/1fpKx6b2hQGEx1GK269vOw_sKeV9Rpnuj?usp=sharing)
 
