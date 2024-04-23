@@ -137,3 +137,14 @@ Segmentation II
      * [code](https://github.com/aliasgharkhani/SLiMe)
      * [Colab Demo](https://colab.research.google.com/drive/1fpKx6b2hQGEx1GK269vOw_sKeV9Rpnuj?usp=sharing)
 
+## Week 6 - Depth Estimation
+### Overview
+
+
+### Benchmark Monocular
+* [NYU-v2 leaderboard](https://paperswithcode.com/sota/monocular-depth-estimation-on-nyu-depth-v2)
+* [NYU-v2 website](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html)
+
+### SOTA Monocular
+* [UniDepth - CVPR '24 + NYU-v2 #1](https://arxiv.org/pdf/2403.18913v1.pdf)
+   * [code](https://github.com/lpiccinelli-eth/unidepth)    
