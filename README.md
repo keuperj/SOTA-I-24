@@ -146,5 +146,7 @@ Segmentation II
 * [NYU-v2 website](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html)
 
 ### SOTA Monocular
+* [Depth Anything](https://arxiv.org/pdf/2401.10891v2.pdf)
+   * [code](https://depth-anything.github.io/) 
 * [UniDepth - CVPR '24 + NYU-v2 #1](https://arxiv.org/pdf/2403.18913v1.pdf)
    * [code](https://github.com/lpiccinelli-eth/unidepth)    
