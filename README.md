@@ -122,6 +122,7 @@ Deformable Convolutions](https://openaccess.thecvf.com/content/CVPR2023/papers/W
 
 
 </details>
+<details>
 <summary> <H2> Week 5 </H2><BR>
 Segmentation II
 </summary>
@@ -137,6 +138,7 @@ Segmentation II
      * [code](https://github.com/aliasgharkhani/SLiMe)
      * [Colab Demo](https://colab.research.google.com/drive/1fpKx6b2hQGEx1GK269vOw_sKeV9Rpnuj?usp=sharing)
 
+</details>
 ## Week 6 - Depth Estimation
 ### Overview
 
