@@ -139,6 +139,7 @@ Segmentation II
      * [Colab Demo](https://colab.research.google.com/drive/1fpKx6b2hQGEx1GK269vOw_sKeV9Rpnuj?usp=sharing)
 
 </details>
+
 ## Week 6 - Depth Estimation
 ### Overview
 
