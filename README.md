@@ -160,7 +160,7 @@ Depth Estimation
 
 </details>
 
-## Week 7 - Visual Question Answering
+<summary> <H2> Week 7 - Visual Question Answering </H2><BR>
 
 ### Benchmark
 * [VQA v2](https://visualqa.org/)
@@ -175,3 +175,28 @@ Depth Estimation
    * [code](https://github.com/microsoft/unilm/tree/master/beit3)
    * [BEiT v1](https://openreview.net/pdf?id=p-BhZSz59o4)
    * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)
+
+
+</details>
+
+### Week 8 - Genearitve Models I - SOTA GANs 
+
+### Benchmark
+* [ImageNet 512x512](https://paperswithcode.com/sota/image-generation-on-imagenet-512x512)
+* [Flickr-Faces-HQ (FFHQ)](https://paperswithcode.com/sota/image-generation-on-ffhq-256-x-256)
+   * [Website](https://github.com/NVlabs/ffhq-dataset) 
+#### FID Score
+* [Paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/8a1d694707eb0fefe65871369074926d-Paper.pdf)
+* [Problems with FID](https://openreview.net/pdf?id=mLG96UpmbYz)  
+
+### GAN overview
+* [2024 Overview paper](https://iopscience.iop.org/article/10.1088/2632-2153/ad1f77/pdf)
+  
+### GAN SOTA
+* [StyleGAN v2](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670171.pdf)
+   * [code](https://github.com/EvgenyKashin/stylegan2-distillation)
+   * [StyleGAN v1](https://arxiv.org/pdf/1812.04948)
+* [SAN](https://arxiv.org/pdf/2301.12811v4)
+   * [code](https://github.com/sony/san)
+
+
