@@ -159,7 +159,7 @@ Depth Estimation
    * [code](https://github.com/lpiccinelli-eth/unidepth)    
 
 </details>
-
+<details>
 <summary> <H2> Week 7 - Visual Question Answering </H2><BR>
 
 ### Benchmark
