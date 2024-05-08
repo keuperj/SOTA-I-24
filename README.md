@@ -160,7 +160,9 @@ Depth Estimation
 
 </details>
 <details>
-<summary> <H2> Week 7 - Visual Question Answering </H2><BR>
+<summary> <H2> Week 7 </H2><BR>
+ Visual Question Answering 
+</summary>
 
 ### Benchmark
 * [VQA v2](https://visualqa.org/)
