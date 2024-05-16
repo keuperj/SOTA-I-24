@@ -180,8 +180,10 @@ Depth Estimation
 
 
 </details>
-
-### Week 8 - Genearitve Models I - SOTA GANs 
+<details>
+<summary> <H2> Week 8 </H2><BR>
+Genearitve Models I - SOTA GANs 
+</summary>
 
 ### Benchmark
 * [ImageNet 512x512](https://paperswithcode.com/sota/image-generation-on-imagenet-512x512)
@@ -200,5 +202,9 @@ Depth Estimation
    * [StyleGAN v1](https://arxiv.org/pdf/1812.04948)
 * [SAN](https://arxiv.org/pdf/2301.12811v4)
    * [code](https://github.com/sony/san)
+
+</details>
+
+### Week 9 - Genearitve Models I - SOTA Diffusion Models
 
 
