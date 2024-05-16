@@ -205,6 +205,24 @@ Genearitve Models I - SOTA GANs
 
 </details>
 
-### Week 9 - Genearitve Models I - SOTA Diffusion Models
+## Week 9 - Genearitve Models I - SOTA Diffusion Models
 
+### Benchmark (same as week 8)
+* [ImageNet 512x512](https://paperswithcode.com/sota/image-generation-on-imagenet-512x512)
+* [Flickr-Faces-HQ (FFHQ)](https://paperswithcode.com/sota/image-generation-on-ffhq-256-x-256)
+   * [Website](https://github.com/NVlabs/ffhq-dataset) 
 
+### Baseline
+* [Original Paper: Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239v2)
+  
+### Do we really need physical Diffusion ?
+* [Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise](https://openreview.net/pdf?id=slHNW9yRie0)
+
+### SOTA
+* [Stable Diffusion](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)
+   * [code](https://github.com/CompVis/stable-diffusion)
+   * [demo](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+
+### Faster Inference
+* [PROGRESSIVE DISTILLATION FOR FAST SAMPLING OF DIFFUSION MODELS](https://arxiv.org/pdf/2202.00512v2)
+   * [code](https://github.com/lucidrains/imagen-pytorch) 
