@@ -204,8 +204,10 @@ Genearitve Models I - SOTA GANs
    * [code](https://github.com/sony/san)
 
 </details>
-
-## Week 9 - Genearitve Models I - SOTA Diffusion Models
+<details>
+<summary> <H2> Week 9 </H2><BR>
+Genearitve Models II - SOTA Diffusion Models
+</summary>
 
 ### Benchmark (same as week 8)
 * [ImageNet 512x512](https://paperswithcode.com/sota/image-generation-on-imagenet-512x512)
@@ -226,3 +228,17 @@ Genearitve Models I - SOTA GANs
 ### Faster Inference
 * [PROGRESSIVE DISTILLATION FOR FAST SAMPLING OF DIFFUSION MODELS](https://arxiv.org/pdf/2202.00512v2)
    * [code](https://github.com/lucidrains/imagen-pytorch) 
+</details>
+
+## Week 10 - Video Generators
+
+
+### Sora
+* [OpenAI Sora Tech report](https://openai.com/index/video-generation-models-as-world-simulators/)
+* [non-original Paper](https://arxiv.org/pdf/2402.17177)
+* [demo video](https://www.youtube.com/watch?v=HK6y8DAPN_0) 
+
+### Latte
+* [Paper: Latte: Latent Diffusion Transformer for Video Generation](https://arxiv.org/pdf/2401.03048v1.pdf)
+* [Code](https://github.com/Vchitect/Latte)
+* [Demo](https://huggingface.co/spaces/kadirnar/Open-Sora)
