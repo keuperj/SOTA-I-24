@@ -255,13 +255,13 @@ Video Generators
 
 ### basic concept: S4
 * [intro S4 SSMs](https://huggingface.co/blog/lbourdois/get-on-the-ssm-train)
-   * [S4 paper: Efficiently Modeling Long Sequences with Structured State Spaces](Efficiently Modeling Long Sequences with Structured State Spaces)
+   * [S4 paper: Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/pdf/2111.00396)
    * [code](https://github.com/state-spaces/s4)
 * [Background: HIPPO](https://arxiv.org/pdf/2206.12037v2)
   
 ### MAMBA
 * [intro](https://thegradient.pub/mamba-explained/)
-* [MAMBA Paper:]()https://arxiv.org/pdf/2312.00752
+* [MAMBA Paper:](https://arxiv.org/pdf/2312.00752)
    * [code](https://github.com/state-spaces/mamba)    
 * [MAMBA-2 Paper: Transformers are SSMs: Generalized Models and Efficient Algorithms
 Through Structured State Space Duality](https://arxiv.org/pdf/2405.21060)
