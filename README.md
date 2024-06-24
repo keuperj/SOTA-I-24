@@ -265,3 +265,16 @@ Video Generators
    * [code](https://github.com/state-spaces/mamba)    
 * [MAMBA-2 Paper: Transformers are SSMs: Generalized Models and Efficient Algorithms
 Through Structured State Space Duality](https://arxiv.org/pdf/2405.21060)
+
+## EXAM
+List of papers which are covered by the exam:
+* [VIT](https://openreview.net/pdf?id=YicbFdNTTy)
+* [ConvNext v1](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.pdf)
+* [CLIP v1 paper](https://arxiv.org/pdf/2103.00020.pdf)
+* [DINO V1 paper](https://arxiv.org/pdf/2104.14294.pdf)
+* [Masked AutoEncoder](https://arxiv.org/pdf/2111.06377.pdf)
+* [Yolo V1](https://openaccess.thecvf.com/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
+* [Segment Anything (SAM)](https://arxiv.org/pdf/2304.02643.pdf)
+* [Segment Everything Everywhere All at Once (SEEM)](https://openreview.net/pdf?id=UHBrWeFWlL)
+* [StyleGAN v1](https://arxiv.org/pdf/1812.04948)
+* [Stable Diffusion](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)
